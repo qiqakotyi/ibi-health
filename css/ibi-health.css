@@ -1,0 +1,11 @@
+.logo img {
+	display: inline-block;
+    width: 10%;
+}
+
+.service-heading {
+	font-size: 19px;
+}
+.service-description p {
+	font-size: 14px;
+}
